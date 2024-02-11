@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:reusablecomponent/ui/registration/presentation/widgets/custom_material_button.dart';
-import 'package:reusablecomponent/ui/registration/presentation/widgets/custom_text.dart';
-import 'package:reusablecomponent/ui/registration/presentation/widgets/custom_text_form_field.dart';
-
+import 'package:reusablecomponent/modules/registration/presentation/widgets/custom_material_button.dart';
+import 'package:reusablecomponent/modules/registration/presentation/widgets/custom_text.dart';
+import 'package:reusablecomponent/modules/registration/presentation/widgets/custom_text_form_field.dart';
 class RegistrationScreen extends StatefulWidget {
   const RegistrationScreen({super.key});
 
